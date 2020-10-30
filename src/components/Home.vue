@@ -1,5 +1,12 @@
 <template>
-  <div>嘿嘿</div>
+  <div>
+      <div>
+          哈哈
+      </div>
+        <div>
+            嘿嘿
+        </div>
+  </div>
 </template>
 
 <script>
