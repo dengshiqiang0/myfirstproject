@@ -6,6 +6,8 @@
         <div>
             嘿嘿
         </div>
+        <p>{{$route.params.id}}</p>
+        <p>{{this.$route.params.name}}</p>
   </div>
 </template>
 
